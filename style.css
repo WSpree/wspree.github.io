@@ -14,7 +14,7 @@ html, body {
 	margin-bottom: 0;
 	margin-right: 150px;
 	margin-left: 150px;
-	padding: auto;
+	padding: 10px;
 	text-align: center;
 }
 
@@ -22,9 +22,11 @@ html, body {
 	float: middle;
 	color: rgb(50, 50, 50);
 	text-align: center;
-	padding: 14px 16px
+	margin-left: 10px;
+	margin-right: 10px;
 	text-decoration: none;
-	font-size: black;
+	font-size: 20px;
+	
 }
 
 .topnav a.active {
